@@ -1,5 +1,5 @@
 _repo: Church-History-Volumes-1-3_51491
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Macpherson, John
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1902
     gutenberg_agent_id: '38614'
     url: http://www.gutenberg.org/2009/agents/38614
+covers:
+- cover_type: archival
+  image_path: 51491-h/images/cover.jpg
 creator:
   author:
     agent_name: Kurtz, J. H. (Johann Heinrich)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38827
     wikipedia: http://en.wikipedia.org/wiki/Johann_Heinrich_Kurtz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51491#Church-History-Volumes-1-3
 gutenberg_issued: '2016-03-17'
 gutenberg_type: Text
 identifiers:
